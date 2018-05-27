@@ -1,0 +1,33 @@
+.overrite-progress {
+    height: .5rem;
+    cursor: pointer;
+}
+
+.clear {
+    clear: both;
+}
+.tag .title {
+    display: inline-block;
+    float: left;
+
+}
+
+.tag .time {
+    display: inline-block;
+    float: right;
+}
+
+.form-inline-overrite {
+    width: 100%;
+}
+
+.form-inline-overrite .form-control {
+    width: 80%;
+    margin-right: 1%;
+}
+
+.control-img {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
